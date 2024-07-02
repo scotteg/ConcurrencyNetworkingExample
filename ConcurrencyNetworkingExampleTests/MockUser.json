@@ -1,0 +1,7 @@
+{
+    "id": 1,
+    "name": "Test User",
+    "username": "testuser",
+    "email": "testuser@example.com",
+    "avatarUrl": "https://via.placeholder.com/150"
+}
